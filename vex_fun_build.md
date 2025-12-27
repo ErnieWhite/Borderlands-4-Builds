@@ -26,7 +26,12 @@
 - **Matrial Components** = 5 Points
 
 ## Specialization
+- **Brute** - 1 Point
 ## Passive Skills
+- **Lead or Alive**
+- **N/A**
+- **N/A**
+- **N/A**
 ## Gear Loadout
 - **Weapon Slot 1:** Thrown Ultra HD EZ-Blast (Common)
 - **Weapon Slot 2:** Daedalus Rogue Pre-Emptive F.A.N.G. (Rare)
