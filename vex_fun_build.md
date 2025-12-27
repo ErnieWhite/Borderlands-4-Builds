@@ -19,7 +19,7 @@
 ## Gear Loadout
 - **Weapon Slot 1:** Matador's Match (Legendary)
 - **Weapon Slot 2:** Oblique Ephemeris (Epic)
-- **Weapon Slot 3:** N/A
+- **Weapon Slot 3:** 
 - **Weapon Slot 4:** N/A
 - **Repkit:** Maliwan Mega Explosive Refresher (Epic)
 - **Shield:** Maliwan Traveler Cullis (Rare)
