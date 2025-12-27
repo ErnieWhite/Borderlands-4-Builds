@@ -26,7 +26,7 @@
 - **Matrial Components** = 5 Points
 
 ## Specialization
-- **Brute** - 4 Point
+- **Brute** - 5 Point
 ## Passive Skills
 - **Lead or Alive**
 - **N/A**
