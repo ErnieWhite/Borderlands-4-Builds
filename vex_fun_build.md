@@ -12,7 +12,7 @@
 - **Tier 1:** Cold Iron - 4 points
 
 ## Specialization
--  **Brute** - 2
+-  **Brute** - 3
 - **Sharpshooter** - 1
 ## Passive Skills
 - **Down But Not Out**
