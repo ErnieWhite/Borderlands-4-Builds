@@ -36,7 +36,7 @@
 - **Weapon Slot 1:** Thrown Ultra HD EZ-Blast (Common)
 - **Weapon Slot 2:** Daedalus Rogue Pre-Emptive F.A.N.G. (Rare)
 - **Weapon Slot 3:** Jakobs Maintained Whispering Karkadann (Uncommon)
-- **Weapon Slot 4:** Daedalus Split-Second S23 (Uncommon)
+- **Weapon Slot 4:** Jakobs Stalking Muki (Uncommon)
 - **Repkit:** Daedalus Standard Stim
 - **Ordinance:** Ripper Booming Transmitter (Legendary)
 - **Shield:** Tediore Reflective Casing (Rare)
