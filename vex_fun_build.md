@@ -1,10 +1,10 @@
 # Borderlahnds 4 Build Tracker
 
 ## Character Overview
-- **Name:** Vex Fun
+- **Name:** Trixie
 - **Class:** Siren
 - **Level:** 5
-- **Playstyle:** Solo
+- **Playstyle:** Fun Solo
 
 ## Skills
 
