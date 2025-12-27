@@ -4,7 +4,7 @@
 - **Name:** Trixie
 - **Class:** Siren
 - **Level:** 30
-- **Playstyle:** Fun Solo
+- **Playstyle:** Fun Solo (Kinetic)
 
 ## Action Skill
 - **Dead Ringer**
