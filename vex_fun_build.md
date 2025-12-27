@@ -21,7 +21,7 @@
 - **Weapon Slot 2:** Oblique Ephemeris (Epic)
 - **Weapon Slot 3:** N/A
 - **Weapon Slot 4:** N/A
-- **Repkit:** Daedalus Large Stim (Common)
+- **Repkit:** Maliwan Mega Explosive Refresher (Epic)
 - **Shield:** Daedalus Generous Foxhole (Uncommon)
 - **Ordinance:** Vladof Vampiric Impact Grenade (Uncommon)
 - **Class Mod:** N/A
