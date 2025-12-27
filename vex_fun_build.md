@@ -35,13 +35,13 @@
 ## Gear Loadout
 - **Weapon Slot 1:** Thrown Ultra HD EZ-Blast (Common)
 - **Weapon Slot 2:** Daedalus Rogue Pre-Emptive F.A.N.G. (Rare)
-- **Weapon Slot 3:** Maliwan Matador's Match (Legendary)
+- **Weapon Slot 3:** Daedalus Split-Second Bonn-91
 - **Weapon Slot 4:** Daedalus Split-Second S23 (Uncommon)
 - **Repkit:** Daedalus Standard Stim
 - **Ordinance:** Ripper Booming Transmitter (Legendary)
 - **Shield:** Jakobs Stein (Common)
 - **Class Mod:** 
-- **Enhancement:** 
+- **Enhancement:** Torque Brutal Bang Ganger (Uncommon) 
 
 ## Firmware
 - **God Killer** - 1/3
