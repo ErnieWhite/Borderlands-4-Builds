@@ -22,7 +22,7 @@
 - **Weapon Slot 3:** N/A
 - **Weapon Slot 4:** N/A
 - **Repkit:** Maliwan Mega Explosive Refresher (Epic)
-- **Shield:** Daedalus Generous Foxhole (Uncommon)
+- **Shield:** Maliwan Traveler Cullis (Rare)
 - **Ordinance:** Vladof Vampiric Impact Grenade (Uncommon)
 - **Class Mod:** N/A
 - **Enhancement:** N/A
